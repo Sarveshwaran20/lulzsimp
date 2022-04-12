@@ -12,7 +12,7 @@
   1. 1st place zonal / state / national in science, math, english and social science olympiads multiple time
   2. international top 50 olympiad ranked multiple times
   3. multiple time school topper
-  4. codingame silver leage and bronze league 1st multiple time
+  4. codingame silver league and bronze league 1st
 
 - **🌱 current**
 
